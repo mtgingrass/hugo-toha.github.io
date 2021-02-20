@@ -5,5 +5,5 @@ menu:
     name: উপ-বিভাগ
     identifier: sub-category
     parent: category
-    weight: 10
+    weight: 17
 ---

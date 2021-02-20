@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: ভূমিকা
     identifier: introduction
-    weight: 10
+    weight: 11
 ---
 
 স্বাগতম! এটি একটি ভূমিকা সূচক পোস্ট। এই পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ

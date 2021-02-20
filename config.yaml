@@ -47,7 +47,7 @@ params:
     favicon: /images/site/ICON.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/mtgingrass/test.github.io.git
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true

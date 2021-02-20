@@ -5,8 +5,8 @@ description: CareerPost
 menu:
   sidebar:
     name: Career_SideBar
-    identifier: Career
-    weight: 10
+    identifier: career_sidebar
+    weight: 13
 ---
 
 Greeting! This is an introduction post. This post tests the followings:

@@ -7,7 +7,7 @@ menu:
     name: Rich Content
     identifier: rich-content
     parent: sub-category
-    weight: 10
+    weight: 16
 ---
 
 This sample post tests the followings:

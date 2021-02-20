@@ -5,9 +5,9 @@ description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
     name: সমৃদ্ধ কন্টেন্ট
-    identifier: rich-content
+    identifier: rich-content2
     parent: sub-category
-    weight: 10
+    weight: 16
 ---
 
 এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
