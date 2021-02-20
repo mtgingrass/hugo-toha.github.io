@@ -2,9 +2,9 @@
 section:
   name: About
   id: about
-  enable: true
+  enable: false
   weight: 1
-  showOnNavbar: true
+  showOnNavbar: false
   template: sections/about.html
 
 # your designation
